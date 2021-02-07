@@ -1,0 +1,25 @@
+.imagen, .botones {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    margin: 0;
+}
+header{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 5em;
+    text-align: center;
+    border: 5px solid black;
+}
+.imagen {
+    margin-top: 5%;
+}
+.peticiones {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+img{
+    max-width: 600px;
+}
